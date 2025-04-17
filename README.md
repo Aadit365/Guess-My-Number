@@ -1,1 +1,2 @@
-<title> This is my first project built mainly using JavaScript, HTML & CSS. </title>
+# My First Project
+This project is built mainly using JavaScript, HTML & CSS.
