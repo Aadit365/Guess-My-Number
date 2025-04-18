@@ -45,7 +45,7 @@ document.querySelector('.check').addEventListener('click', function () {
 });
 
 document.querySelector('.again').addEventListener('click', function () {
-  if (highscore < score) {
+  if (highscore < score && document.querySelector('.guess').value !== '') {
     highscore = score;
     document.querySelector('.highscore').textContent = score;
   }
