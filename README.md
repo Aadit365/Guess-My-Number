@@ -1,8 +1,13 @@
-# My First Project
-This project is built mainly using JavaScript, HTML & CSS.
-<br>
-In this game-based project, one needs to guess a number between 1 & 20 and the system will say whether your guess was right or else it will guide you towards the right number.
-<br>
-Here, I've implemented a simple dynamic UI in which the background will turn green if your guess was right or if you lose the game, it will turn red.
-<br>
-I hope you like my simple project which I've made on the way to master JavaScript but there are still a lot more to learn & create bigger impactful projects.
+# Guess My Number!
+
+This is a simple number guessing game. The computer will pick a random number between 1 and 20, and you have to guess what it is.
+
+## How to Play
+
+1.  Open `index.html` in your web browser.
+2.  Enter a number between 1 and 20 in the input field.
+3.  Click the "Check!" button.
+4.  The game will tell you if your guess is too high or too low.
+5.  Keep guessing until you get the correct number.
+6.  Your score will decrease with each incorrect guess.
+7.  Click the "Reset!" button to start a new game.
